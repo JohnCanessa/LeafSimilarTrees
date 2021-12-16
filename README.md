@@ -8,7 +8,7 @@ if the leaf nodes values in the sequence is the same.
 If interested in my comments and approach I invite you
 to read the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/12/16/leetcode-872-leaf-similar-trees-in-java/
 
 Keep in mind that one of the best ways to learn is to
 read and experiment, and repeat. Practice makes perfect.
